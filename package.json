@@ -1,5 +1,5 @@
 {
-  "name": "cukkito",
+  "name": "template",
   "private": true,
   "scripts": {
     "build": "turbo run build",
