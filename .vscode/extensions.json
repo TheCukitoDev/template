@@ -1,0 +1,27 @@
+{
+	"recommendations": [
+		"oxc.oxc-vscode",
+		"biomejs.biome",
+		"42Crunch.vscode-openapi",
+		"bierner.markdown-checkbox",
+		"bierner.markdown-emoji",
+		"bierner.markdown-mermaid",
+		"bierner.markdown-yaml-preamble",
+		"AykutSarac.jsoncrack-vscode",
+		"bradlc.vscode-tailwindcss",
+		"charliermarsh.ruff",
+		"chrischinchilla.vale-vscode",
+		"DavidAnson.vscode-markdownlint",
+		"docsmsft.docs-yaml",
+		"fill-labs.dependi",
+		"Gruntfuggly.todo-tree",
+		"redhat.vscode-yaml",
+		"rust-lang.rust-analyzer",
+		"YoavBls.pretty-ts-errors",
+		"wix.vscode-import-cost",
+		"usernamehw.errorlens",
+		"unifiedjs.vscode-mdx",
+		"vadimcn.vscode-lldb",
+		"tamasfe.even-better-toml"
+	]
+}

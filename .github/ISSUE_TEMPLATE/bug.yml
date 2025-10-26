@@ -1,0 +1,33 @@
+name: Bug Report
+description: Report a bug in the project
+title: "[BUG]: "
+labels: [bug, triage]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to fill out this bug report! Please provide as much information as possible to help us identify and fix the issue.
+  - type: input
+    id: description
+    attributes:
+      label: Description
+      description: A clear and concise description of what the bug is.
+      placeholder: "Describe the bug..."
+    validations:
+      required: true
+  - type: input
+    id: steps_to_reproduce
+    attributes:
+      label: Steps to Reproduce
+      description: Steps to reproduce the behavior. Please provide code snippets or a repository link if applicable.
+      placeholder: "1. Go to '...'\n2. Click on '...'\n3. Scroll down to '...'\n4. See error"
+    validations:
+      required: true
+  - type: input
+    id: version
+    attributes:
+      label: Version
+      description: The version of the project where the error occurred.
+      placeholder: "e.g., v1.0.0"
+    validations:
+      required: true
